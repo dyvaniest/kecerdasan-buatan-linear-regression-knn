@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Documents\Kuliah Semester 4\Kecerdasan Buatan\myven"
+VIRTUAL_ENV="F:\kecerdasan-buatan-linear-regression-knn\myven"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
